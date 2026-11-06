@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @dengyao1
-- 👀 I’m interested in gilrs
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m dengyao1
 
-<!---
-dengyao1/dengyao1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-/
+I’m building **Darwin**, an AI desktop assistant for research and document work on macOS and Windows.
+
+Darwin helps you read local documents, find and check sources, and turn your findings into reports. It can remember context across conversations, so you can pick up a project where you left off. For complex tasks, a second AI can review the work before you receive it.
+
+I’m preparing to open-source Darwin.
